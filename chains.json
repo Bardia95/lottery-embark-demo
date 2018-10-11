@@ -1,0 +1,34 @@
+{
+  "0xa3b455b8ead454fa558fea06a2d3b5c8ffe86f18a7241e15fee4810e00f586a3": {
+    "contracts": {
+      "0x2f0e5c5162e9eb336d385832ca61d066869ed43169dbcda4031dd1ce4d688042": {
+        "name": "Lottery",
+        "address": "0x607FA2FD1db45fF038FB58828D2909cd00518Ee5"
+      },
+      "0x3043b04ad856d169c8f0b0509c0bc63192dc7edd92d6933c58708298a0e381be": {
+        "name": "ENSRegistry",
+        "address": "0x4d68dcD8C47E56A5DE61EbBd959BbF22d2B9De53"
+      },
+      "0x818559fc2a5391bd52e67f0ca29734645da83f06878a8bf96a034ef21400a914": {
+        "name": "Resolver",
+        "address": "0xA39ACd4E3312d7289d2B8ad14D295D730D673Aa6"
+      },
+      "0x915efefccf0c14f478d1da25639076e9f928f68c7194e2562b7d1464b519e821": {
+        "name": "FIFSRegistrar",
+        "address": "0xc6521BE84b6d9Ea0a605aEE72bAf95772215EbB9"
+      },
+      "0xfc3f9e1f4219448ce8cecae8a1b6ab4e3caf925fd825ba1860032f262bacd886": {
+        "name": "Lottery",
+        "address": "0xEdbcB25A84e26ECb1d89cB968CB397703e861396"
+      }
+    }
+  },
+  "0x62f38b38d6ceb49e394b6a67ad7b16b318db0cf5d0761730632f06846e00c0e4": {
+    "contracts": {
+      "0xe1584b33d337f9190b3e3119231a5beb6700ce66a42cd9a23c095940304280f4": {
+        "name": "Lottery",
+        "address": "0x17aBD140347fb7e92Ef59880cd6c6Fd2D60300F0"
+      }
+    }
+  }
+}
